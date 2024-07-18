@@ -1,0 +1,39 @@
+.aa {
+  background-color: rgb(227, 215, 197);
+  margin: 50px auto;
+  padding: 30px;
+  width: 1000px;
+  text-align: center;
+  text-transform: uppercase;
+}
+ul {
+  text-decoration: none;
+  /* text-indent: 50px; */
+}
+li {
+  display: inline-block;
+  text-indent: 100px;
+}
+a {
+  text-decoration: none;
+  text-decoration-color: black;
+}
+.as {
+  border: 3px solid black;
+  height: 400px;
+  width: 890px;
+padding: 40px;
+
+}
+.q {
+  float: inline-end;
+  
+}
+.e {
+  text-align: left;
+  height: 300px;
+}
+.w {
+  text-align: left;
+  
+}

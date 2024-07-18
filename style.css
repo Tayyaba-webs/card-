@@ -1,0 +1,26 @@
+.aaa {
+    border-top: 5px solid rgb(116, 115, 115);
+    border-bottom: 5px solid rgb(116, 115, 115);
+    border-right: 5px solid rgb(116, 115, 115);
+    width: 1000px;
+    margin: 60px auto;
+    text-align: center;
+    text-transform: uppercase;
+}
+.a {
+    line-height: 15px;
+}
+ol {
+    border-top: 3px solid rgb(87, 86, 86);
+    border-bottom: 5px solid rgb(87, 86, 86);
+    margin: 50px;
+    padding: 15px;
+    text-indent: 80px;
+}
+li {
+    display: inline-block;
+}
+a {
+    text-decoration-line: none;
+    text-decoration-color: black;
+}
